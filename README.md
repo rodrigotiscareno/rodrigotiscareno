@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Tiscareno</h1>
 <h3 align="center">A third-year Management Engineering student from the University of Waterloo interested in pursuing data engineering.</h3>
 
-- 🔭 I’m currently working on **JobSweep**
+- 🔭 I’m currently working on **EstateVista**
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
