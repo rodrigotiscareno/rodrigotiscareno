@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Tiscareno</h1>
-<h3 align="center">A fourth-year Management Engineering student from the University of Waterloo interested in pursuing data engineering.</h3>
+<h3 align="center">A fourth-year Management Engineering student from the University of Waterloo interested in pursuing software and data engineering.</h3>
 
 - 🔭 I’m currently working on **StockFlow**
 
