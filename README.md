@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Tiscareno</h1>
-<h3 align="center">A fourth-year Management Engineering student from the University of Waterloo interested in pursuing software and data engineering.</h3>
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **any data engineering projects!**
 
